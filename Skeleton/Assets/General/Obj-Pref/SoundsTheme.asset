@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad00d115b9beac9429ee8ffd2cd78f1d, type: 3}
+  m_Name: SoundsTheme
+  m_EditorClassIdentifier: 
+  Musics:
+  - name: Music1
+    audioClip: {fileID: 8300000, guid: 459ce607f0da9f64497f09f31ea9e1e6, type: 3}
+    volume: 0.5
+  - name: Music2
+    audioClip: {fileID: 8300000, guid: 7f68b88841ae34e47b866ecd676c28ef, type: 3}
+    volume: 0.5
+  Effects:
+  - name: Button
+    audioClip: {fileID: 8300000, guid: 283196106ac23b9428fe988eff8bccf2, type: 3}
+    volume: 1

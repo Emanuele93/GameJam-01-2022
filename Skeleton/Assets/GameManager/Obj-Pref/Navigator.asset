@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61341caf8d84ca347af2c0137420610e, type: 3}
   m_Name: Navigator
   m_EditorClassIdentifier: 
-  test: 7
+  MaxCachedPages: 0
